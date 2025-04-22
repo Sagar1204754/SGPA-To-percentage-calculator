@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="bn">
 <head>
   <meta charset="UTF-8">
@@ -185,4 +185,4 @@
   </script>
 </body>
 </html>
-google-site-verification: google9aca3bfd1587f1d4.html
+
