@@ -186,3 +186,4 @@
 </body>
 </html>
 
+<button onclick="toggleDarkMode()">ডার্ক মোড চালু/বন্ধ</button>
