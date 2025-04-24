@@ -109,7 +109,7 @@
 <body>
   <h1>THE UNIVERSITY OF BURDWAN</h1>
   <h2>SGPA থেকে শতাংশ ও নম্বর ক্যালকুলেটর</h2>
-  <h3>Created by SAGAR</h3> <!-- Increased font size and made it bold -->
+  <h3>Created by SAGAR😄</h3> <!-- Increased font size and made it bold -->
 
   <div class="section">
     <label>SGPA দিন:</label>
