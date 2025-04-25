@@ -187,4 +187,6 @@
 </body>
 </html>
 
-https://www.buruniv.ac.in/mobileDemo/index_m.php
+<a href="https://www.buruniv.ac.in/mobileDemo/index_m.php" target="_blank">
+    বর্ধমান বিশ্ববিদ্যালয়ের ওয়েবসাইট দেখুন
+</a>
