@@ -187,4 +187,4 @@
 </body>
 </html>
 
-
+https://www.buruniv.ac.in/mobileDemo/index_m.php
