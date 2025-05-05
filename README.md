@@ -187,6 +187,4 @@
 </body>
 </html>
 
-<a href="https://sagar1204754.github.io/Marks-to-percentage-calculator/" target="_blank">
-    Marks to percentage calculator
-</a>
+<a href="mailto:sagar8649885208@gmail.com">Email Me</a>
