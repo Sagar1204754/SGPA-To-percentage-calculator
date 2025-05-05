@@ -187,4 +187,4 @@
 </body>
 </html>
 
-<a href="mailto:sagar8649885208@gmail.com">Email Me</a>
+<a href="mailto:sagar8649885208@gmail.com">contact us</a>
