@@ -196,3 +196,5 @@
 
 
 <a href="mailto:sagar8649885208@gmail.com">contact us</a>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3278519696214377"
+     crossorigin="anonymous"></script>
