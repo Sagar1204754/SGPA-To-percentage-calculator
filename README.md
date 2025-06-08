@@ -1,10 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="bn">
-<head>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3278519696214377"
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3278519696214377"
      crossorigin="anonymous"></script>
-  <meta charset="UTF-8">
   <title>SGPA & Advanced Calculator</title>
   <style>
     body {
